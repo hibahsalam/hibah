@@ -1,5 +1,14 @@
 #para1{
-    margin-left: 40%;
-    font-size: 20px;
+    margin-left: 35%;
+    font-size: 30px;
     border: solid;
+    width: 400px;
+    padding: 10px;
+    background-color: lavenderblush;
+}
+#bt1{
+    margin-left: 40%;
+    width: 80px;
+    height: 30px;
+    font-size: large;
 }
